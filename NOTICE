@@ -1,0 +1,8 @@
+GekkGo models
+
+The files in voice/ were trained by GekkGo and are (c) GekkGo. All rights reserved.
+
+Third-party models, when published here, keep their own terms, and those terms travel with the files:
+- Gemma (Google): Gemma Terms of Use, https://ai.google.dev/gemma/terms, and the Gemma Prohibited Use Policy.
+- Whisper (OpenAI): MIT License.
+- sherpa-onnx (k2-fsa): Apache License 2.0.

@@ -1,0 +1,10 @@
+{
+  "name": "Gekk Voice",
+  "version": "1.0.0",
+  "file": "gekk_voice.gvm",
+  "url": "https://raw.githubusercontent.com/GekkGo/gekkgo-models/main/voice/gekk_voice.gvm",
+  "bytes": 810669,
+  "sha256": "a08dfe5ce3275d282117d502704de3bb75042b4ca9b75d1e4438024d4ceabb43",
+  "intents": 33,
+  "heldout_accuracy": 0.8202
+}
