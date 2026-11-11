@@ -1,8 +1,8 @@
 {
- "version": "2026-11-11.2302",
- "rows": 7327,
- "hide": 4254,
- "bytes": 1358151,
- "sha256": "e5ed9ca75229098a841f8c4fde3db7c85c4020f025d0a8a9f413362a35968756",
+ "version": "2026-11-12.0210",
+ "rows": 19432,
+ "hide": 14792,
+ "bytes": 3619177,
+ "sha256": "22b49b1610d8a899deb3a7dc4113dd9a7e93b11e7afddd4ea24131c4c7407b3e",
  "file": "cars/cars_market.json"
 }
