@@ -1,14 +1,13 @@
 {
-  "versionCode": 39,
-  "versionName": "0.25.0",
+  "versionCode": 40,
+  "versionName": "0.25.1",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "Fuel check-in, car care and a driving guide",
+  "headline": "Gekk searches the web, and a chosen route closes the sheet",
   "notes": [
-    "A quick check-in sharpens your fuel costs",
-    "Car care reminders and a driving guide",
-    "Split the cost, and New Driver Mode"
+    "Gekk searches the web for what the phone does not know, and says so",
+    "Choosing a place from a list now opens the directions page"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.25.0"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.25.1"
 }
