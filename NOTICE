@@ -6,3 +6,4 @@ Third-party models, when published here, keep their own terms, and those terms t
 - Gemma (Google): Gemma Terms of Use, https://ai.google.dev/gemma/terms, and the Gemma Prohibited Use Policy.
 - Whisper (OpenAI): MIT License.
 - sherpa-onnx (k2-fsa): Apache License 2.0.
+- Parakeet TDT 0.6B v2 (NVIDIA): CC BY 4.0, https://creativecommons.org/licenses/by/4.0/ (model: https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2). The ONNX int8 files in the hearing-v2 release were converted by the sherpa-onnx project (Apache License 2.0). Changes by GekkGo: none to the weights.
