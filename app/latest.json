@@ -1,13 +1,14 @@
 {
-  "versionCode": 40,
-  "versionName": "0.25.1",
+  "versionCode": 41,
+  "versionName": "0.25.2",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "Gekk searches the web, and a chosen route closes the sheet",
+  "headline": "A calmer Garage, and a bigger Gulf car list",
   "notes": [
-    "Gekk searches the web for what the phone does not know, and says so",
-    "Choosing a place from a list now opens the directions page"
+    "The Garage in three views: Car, Trips and Tools",
+    "Tap a tab again to return to the top of its page",
+    "About 19,000 Gulf car rows"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.25.1"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.25.2"
 }
