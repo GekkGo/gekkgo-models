@@ -1,0 +1,14 @@
+{
+  "versionCode": 38,
+  "versionName": "0.24.0",
+  "apkUrl": "",
+  "sha256": "",
+  "bytes": 0,
+  "headline": "Update notifications and a bigger Gulf car list",
+  "notes": [
+    "GekkGo checks daily for new versions and notifies you",
+    "A larger Gulf car list with a fuel figure for each engine",
+    "Support for older Android devices improved"
+  ],
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.24.0"
+}
