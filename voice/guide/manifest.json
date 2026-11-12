@@ -1,0 +1,10 @@
+{
+  "name": "Gekk's voice for directions",
+  "model": "Supertonic 2 (int8, ONNX, via sherpa-onnx)",
+  "version": "1",
+  "url": "https://github.com/GekkGo/gekkgo-models/releases/download/guide-voice-v1/gekk-voice-supertonic.zip",
+  "bytes": 96407099,
+  "sha256": "a799fb6ad6d81bcb48ec767a1bb90fee480ba89bf1c891e1a62bd6a6e76a5083",
+  "voices": 10,
+  "license": "Code MIT, model OpenRAIL-M (Supertone Inc.)"
+}

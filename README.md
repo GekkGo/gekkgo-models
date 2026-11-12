@@ -5,6 +5,7 @@ The models the GekkGo app downloads: small files that let Gekk understand what a
 | Folder | What it is | Status |
 | --- | --- | --- |
 | `voice/` | The reader: turns a sentence into one of the app's 33 jobs ("take me to...", "avoid tolls"). 792 KB. | Published, version 1.0.0 |
+| `voice/guide/` | Gekk's spoken voice for directions and answers: Supertonic 2, ten voices, runs on the phone. 96 MB. | Published, version 1 |
 | `hearing/` | Speech to words on the phone. | Planned |
 | `brain/` | Answers in Gekk's own words. | Planned |
 
