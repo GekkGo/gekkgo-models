@@ -1,15 +1,13 @@
 {
-  "versionCode": 46,
-  "versionName": "0.27.0",
+  "versionCode": 47,
+  "versionName": "0.28.0",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "Gekk knows your drive, two voices and a trip map that shows what you drove",
+  "headline": "Saved places and Garage pages that follow your finger",
   "notes": [
-    "Gekk answers from your drive: traffic ahead, where you are, what is coming up",
-    "One voice choice, woman or man, for everything spoken",
-    "The trip map shows the way you drove, and browsing marks is smoother",
-    "Models show their progress, and the account matches the iPhone"
+    "Home, work and other places have a page and an editor",
+    "Garage pages move exactly with your finger"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.27.0"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.28.0"
 }
