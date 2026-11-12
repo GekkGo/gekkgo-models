@@ -1,14 +1,15 @@
 {
-  "versionCode": 42,
-  "versionName": "0.25.3",
+  "versionCode": 43,
+  "versionName": "0.26.0",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "Pointer styles and smoother driving",
+  "headline": "Your drive on the map, a fairer score and fine-risk roads",
   "notes": [
-    "Five pointers to choose from",
-    "Smoother pointer and camera motion",
-    "The driven line ends at the pointer"
+    "Marks and coloured stretches on the trip map",
+    "A fairer score, with its working shown",
+    "Fine-risk roads in violet, bad road on the live map",
+    "A report you can read at a glance"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.25.3"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.26.0"
 }
