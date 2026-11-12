@@ -1,14 +1,14 @@
 {
-  "versionCode": 41,
-  "versionName": "0.25.2",
+  "versionCode": 42,
+  "versionName": "0.25.3",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "A calmer Garage, and a bigger Gulf car list",
+  "headline": "Pointer styles and smoother driving",
   "notes": [
-    "The Garage in three views: Car, Trips and Tools",
-    "Tap a tab again to return to the top of its page",
-    "About 19,000 Gulf car rows"
+    "Five pointers to choose from",
+    "Smoother pointer and camera motion",
+    "The driven line ends at the pointer"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.25.2"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.25.3"
 }
