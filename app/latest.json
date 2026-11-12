@@ -1,15 +1,14 @@
 {
-  "versionCode": 43,
-  "versionName": "0.26.0",
+  "versionCode": 44,
+  "versionName": "0.26.1",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "Your drive on the map, a fairer score and fine-risk roads",
+  "headline": "A driving profile, one score on both phones and swipeable marks",
   "notes": [
-    "Marks and coloured stretches on the trip map",
-    "A fairer score, with its working shown",
-    "Fine-risk roads in violet, bad road on the live map",
-    "A report you can read at a glance"
+    "Your driving profile builds from your own drives",
+    "The same score as the iPhone app",
+    "Trip map marks you can swipe and drag"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.26.0"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.26.1"
 }
