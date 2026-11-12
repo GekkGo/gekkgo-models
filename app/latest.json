@@ -1,14 +1,15 @@
 {
-  "versionCode": 44,
-  "versionName": "0.26.1",
+  "versionCode": 45,
+  "versionName": "0.26.2",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "A driving profile, one score on both phones and swipeable marks",
+  "headline": "A natural voice, a calmer crash check and a clearer profile",
   "notes": [
-    "Your driving profile builds from your own drives",
-    "The same score as the iPhone app",
-    "Trip map marks you can swipe and drag"
+    "Spoken directions in a natural on-device voice",
+    "A crash check that shaking no longer starts",
+    "Your driving profile in four parts of 25",
+    "Swipe through the Garage; pages keep your place"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.26.1"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.26.2"
 }
