@@ -1,15 +1,15 @@
 {
-  "versionCode": 45,
-  "versionName": "0.26.2",
+  "versionCode": 46,
+  "versionName": "0.27.0",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "A natural voice, a calmer crash check and a clearer profile",
+  "headline": "Gekk knows your drive, two voices and a trip map that shows what you drove",
   "notes": [
-    "Spoken directions in a natural on-device voice",
-    "A crash check that shaking no longer starts",
-    "Your driving profile in four parts of 25",
-    "Swipe through the Garage; pages keep your place"
+    "Gekk answers from your drive: traffic ahead, where you are, what is coming up",
+    "One voice choice, woman or man, for everything spoken",
+    "The trip map shows the way you drove, and browsing marks is smoother",
+    "Models show their progress, and the account matches the iPhone"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.26.2"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.27.0"
 }
