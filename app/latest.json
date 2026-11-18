@@ -1,13 +1,13 @@
 {
-  "versionCode": 52,
-  "versionName": "0.31.0",
+  "versionCode": 53,
+  "versionName": "0.31.1",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "The swipe-up hint is visible again and sheets fit larger text",
+  "headline": "Trips reach your account sooner",
   "notes": [
-    "The hint to swipe up floats above the sheet on the directions page and trip maps",
-    "Sheets are never shorter than their header"
+    "A finished trip goes to your account straight away",
+    "A refused restore no longer holds a trip back"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.31.0"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.31.1"
 }
