@@ -2,10 +2,10 @@
   "models": [
     {
       "id": "gekk-brain-0.5b",
-      "version": "5",
-      "url": "https://github.com/GekkGo/gekkgo-models/releases/download/brain-v5/gekk-brain-0.5b-v5.task",
+      "version": "8",
+      "url": "https://github.com/GekkGo/gekkgo-models/releases/download/brain-v8/gekk-brain-0.5b-v8.task",
       "bytes": 541130175,
-      "sha256": "4846e3c114928de57eafbf461ca628511c50aa230b9b9050b33cd8f2c2c5afdd",
+      "sha256": "26fc670c4b72ba9b143402c7b555b57aff51fe14255e667e05cae28daaf70d6c",
       "minRamMb": 3500,
       "template": "qwen"
     }
