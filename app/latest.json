@@ -1,13 +1,15 @@
 {
-  "versionCode": 47,
-  "versionName": "0.28.0",
+  "versionCode": 48,
+  "versionName": "0.29.0",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "Saved places and Garage pages that follow your finger",
+  "headline": "Voice that works with music and Bluetooth, wheel pickers, split cost for any crowd and a smoother trip report",
   "notes": [
-    "Home, work and other places have a page and an editor",
-    "Garage pages move exactly with your finger"
+    "Gekk listens with the phone's microphone and music steps aside",
+    "One smooth date and time picker everywhere",
+    "Split the cost for any number of people",
+    "Change the car on a finished drive"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.28.0"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.29.0"
 }
