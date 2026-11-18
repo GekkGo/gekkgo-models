@@ -1,13 +1,13 @@
 {
-  "versionCode": 51,
-  "versionName": "0.30.2",
+  "versionCode": 52,
+  "versionName": "0.31.0",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "The arrow moves at an even pace",
+  "headline": "The swipe-up hint is visible again and sheets fit larger text",
   "notes": [
-    "The arrow no longer speeds up and slows down to meet each GPS reading",
-    "The camera looks ahead along a steady heading"
+    "The hint to swipe up floats above the sheet on the directions page and trip maps",
+    "Sheets are never shorter than their header"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.30.2"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.31.0"
 }
