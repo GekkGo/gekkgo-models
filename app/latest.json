@@ -1,12 +1,12 @@
 {
-  "versionCode": 56,
-  "versionName": "0.33.1",
+  "versionCode": 57,
+  "versionName": "0.33.2",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "See what your account holds",
+  "headline": "Natural sound first, cleaned-up sound second",
   "notes": [
-    "A check in Settings that tells you how many trips your account holds"
+    "Gekk reads the plain microphone first and the cleaned-up ones as a second try"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.33.1"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.33.2"
 }
