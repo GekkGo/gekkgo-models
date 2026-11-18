@@ -1,15 +1,13 @@
 {
-  "versionCode": 49,
-  "versionName": "0.30.0",
+  "versionCode": 50,
+  "versionName": "0.30.1",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "A newer brain for Gekk, search that shows each place once, Arabic spelling, the trip report on both maps and zoom that carries on",
+  "headline": "A steadier arrow and no hitches on long drives",
   "notes": [
-    "A newer brain for Gekk, from the models card",
-    "One row for each place in search, and Arabic spellings read alike",
-    "Zoom that carries on after a quick pinch on Google Maps",
-    "The trip report plays its glow and bounce on both maps"
+    "The car's arrow is drawn in step with the camera on OpenStreetMap",
+    "The driven part of the route no longer redraws from the start"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.30.0"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.30.1"
 }
