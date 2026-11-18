@@ -1,13 +1,13 @@
 {
-  "versionCode": 50,
-  "versionName": "0.30.1",
+  "versionCode": 51,
+  "versionName": "0.30.2",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "A steadier arrow and no hitches on long drives",
+  "headline": "The arrow moves at an even pace",
   "notes": [
-    "The car's arrow is drawn in step with the camera on OpenStreetMap",
-    "The driven part of the route no longer redraws from the start"
+    "The arrow no longer speeds up and slows down to meet each GPS reading",
+    "The camera looks ahead along a steady heading"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.30.1"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.30.2"
 }
