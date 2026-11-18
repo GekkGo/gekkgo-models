@@ -1,15 +1,15 @@
 {
-  "versionCode": 48,
-  "versionName": "0.29.0",
+  "versionCode": 49,
+  "versionName": "0.30.0",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "Voice that works with music and Bluetooth, wheel pickers, split cost for any crowd and a smoother trip report",
+  "headline": "A newer brain for Gekk, search that shows each place once, Arabic spelling, the trip report on both maps and zoom that carries on",
   "notes": [
-    "Gekk listens with the phone's microphone and music steps aside",
-    "One smooth date and time picker everywhere",
-    "Split the cost for any number of people",
-    "Change the car on a finished drive"
+    "A newer brain for Gekk, from the models card",
+    "One row for each place in search, and Arabic spellings read alike",
+    "Zoom that carries on after a quick pinch on Google Maps",
+    "The trip report plays its glow and bounce on both maps"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.29.0"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.30.0"
 }
