@@ -1,14 +1,13 @@
 {
-  "versionCode": 54,
-  "versionName": "0.32.0",
+  "versionCode": 55,
+  "versionName": "0.33.0",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "The guide's web search works again, issue reports by voice and more screens for Gekk",
+  "headline": "Gekk hears you better over music and noise",
   "notes": [
-    "The driving guide's web search is back",
-    "Say start log, stop log or report an issue",
-    "Gekk opens the planner, car data and add a car"
+    "The call microphone with echo cancellation",
+    "Lyrics and noise are dropped instead of acted on"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.32.0"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.33.0"
 }
