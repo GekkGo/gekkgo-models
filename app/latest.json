@@ -1,12 +1,12 @@
 {
-  "versionCode": 57,
-  "versionName": "0.33.2",
+  "versionCode": 58,
+  "versionName": "0.33.3",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "Natural sound first, cleaned-up sound second",
+  "headline": "Sync now checks the result",
   "notes": [
-    "Gekk reads the plain microphone first and the cleaned-up ones as a second try"
+    "Sync now asks the account what it holds and compares it with this phone"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.33.2"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.33.3"
 }
