@@ -1,12 +1,12 @@
 {
-  "versionCode": 58,
-  "versionName": "0.33.3",
+  "versionCode": 59,
+  "versionName": "0.33.4",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "Sync now checks the result",
+  "headline": "A clearer Sync now result",
   "notes": [
-    "Sync now asks the account what it holds and compares it with this phone"
+    "Sync now always says whether all of this phone's trips are on the account"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.33.3"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.33.4"
 }
