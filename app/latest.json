@@ -1,12 +1,12 @@
 {
-  "versionCode": 59,
-  "versionName": "0.33.4",
+  "versionCode": 60,
+  "versionName": "0.33.5",
   "apkUrl": "",
   "sha256": "",
   "bytes": 0,
-  "headline": "A clearer Sync now result",
+  "headline": "Sync now names the car that does not match",
   "notes": [
-    "Sync now always says whether all of this phone's trips are on the account"
+    "Sync now says which car is not in the account's car list"
   ],
-  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.33.4"
+  "pageUrl": "https://github.com/GekkGo/gekkgo-android/releases/tag/v0.33.5"
 }
